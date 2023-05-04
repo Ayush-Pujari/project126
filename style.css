@@ -1,0 +1,28 @@
+.heading{
+    width: 100%;
+    margin-top: 0;
+    font-size: 30px;
+    font-family: 'Bruno Ace SC', cursive;
+font-family: 'Dancing Script', cursive;
+}
+.note{
+    color: black;
+    margin-top: 2px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+canvas{
+    border: 5px solid white;
+   box-shadow: 5px 5px 5px black;
+   border-radius: 6px;
+}
+.s_name{
+    font-size: 20px;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+body{
+    position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
