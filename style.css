@@ -8,8 +8,10 @@ font-family: 'Dancing Script', cursive;
 .note{
     color: black;
     margin-top: 2px;
+    font-family: 'Bruno Ace SC', cursive;
     font-family: 'Dancing Script', cursive;
     font-size: 20px;
+    width: 100%;
 }
 canvas{
     border: 5px solid white;
